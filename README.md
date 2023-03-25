@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/📖%20简书地址-red.svg" />
   </a>
   <a href="https://github.com/Wenlong-Guo">
-    <img src="https://komarev.com/ghpvc/?username=Wenlong-Guo&label=👁%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=Wenlong-Guo&color=red&label=👁%20Views" />
   </a>  
 </p>
 
