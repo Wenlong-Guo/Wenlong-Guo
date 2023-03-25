@@ -17,4 +17,6 @@
 </p>
 
 
-<p align="center">穿暖花开 奔你而来</b></p>
+<p align="center">24k纯90后 没几年就35毕业了</b></p>
+<p align="center">毕业前开始总结安卓的经验</b></p>
+<p align="center">也算是给自己的这些年一个交代</b></p>
