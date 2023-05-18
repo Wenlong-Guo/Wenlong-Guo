@@ -10,6 +10,8 @@
 - 📧  [guowenlong20000@sina.com](mailto:guowenlong20000@sina.com)
 - ℹ️ 24k纯90后 没几年就35毕业了,毕业前开始总结安卓的经验,也算是给自己的这些年一个交代
 
+</br>
+
 # About My Github
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
@@ -18,8 +20,8 @@
 
 <br/> 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenlong-Guo&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=Wenlong-Guo&show_icons=true&theme=cobalt" align="center" />
+<img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenlong-Guo&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='170' src="https://github-readme-stats.vercel.app/api?username=Wenlong-Guo&show_icons=true&theme=cobalt" align="center" />
 </div> 
 
 </br>
