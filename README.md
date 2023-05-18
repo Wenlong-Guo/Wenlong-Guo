@@ -3,18 +3,25 @@
 
 - 📍 &nbsp;&nbsp;北京(Beijing)
 - 👨‍🎓 &nbsp;NKY.
-- ℹ️ 24k纯90后 没几年就35毕业了
 - 👩‍💻 8 years of work.
 - 🏢 待业
 - ☎️ 17600133786
 - wx : xiaoguo9745
 - 📧  [guowenlong20000@sina.com](mailto:guowenlong20000@sina.com)
-- 🆓 24k纯90后 没几年就35毕业了,毕业前开始总结安卓的经验,也算是给自己的这些年一个交代
+- ℹ️ 24k纯90后 没几年就35毕业了,毕业前开始总结安卓的经验,也算是给自己的这些年一个交代
 
+# About My Github
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)-->
+
+<br/> 
 <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenlong-Guo&layout=compact&langs_count=8&theme=cobalt" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=Wenlong-Guo&show_icons=true&theme=cobalt" align="center" />
 </div> 
+
 </br>
 <div align="center">
     <a href="https://juejin.cn/user/3931509310370701/posts"><img src="https://img.shields.io/badge/Website-掘金-blue" /></a>&emsp;
