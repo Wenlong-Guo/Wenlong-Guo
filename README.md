@@ -5,7 +5,7 @@
 - 📍 &nbsp;&nbsp;北京(Beijing)
 - 👨‍🎓 &nbsp;NKY.
 - 👩‍💻 8 years of work.
-- 🏢 待业
+- 🏢 待业 (求内推)
 - ☎️ 17600133786
 - wx : xiaoguo9745
 - 📧  [guowenlong20000@sina.com](mailto:guowenlong20000@sina.com)
