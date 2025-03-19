@@ -4,7 +4,7 @@
 
 - 📍 &nbsp;&nbsp;北京(Beijing)
 - 👨‍🎓 &nbsp;NKY.
-- 👩‍💻 8 years of work.
+- 👩‍💻 10 years of work.
 - 🏢 央广购物
 - ☎️ 17600133786
 - wx : xiaoguo9745
