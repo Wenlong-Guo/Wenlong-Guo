@@ -5,7 +5,7 @@
 - 📍 &nbsp;&nbsp;北京(Beijing)
 - 👨‍🎓 &nbsp;NKY.
 - 👩‍💻 10 years of work.
-- 🏢 央广购物
+- 🏢 豆神教育
 - ☎️ 17600133786
 - wx : xiaoguo9745
 - 📧  [guowenlong20000@sina.com](mailto:guowenlong20000@sina.com)
